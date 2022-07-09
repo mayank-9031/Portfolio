@@ -1,2 +1,3 @@
 # Personal Portfolio Website
-1. iddd
+It contains my all information including my Resume, skills and Projects.
+I created this using HTML, CSS, JavaScript and Bootstrap
